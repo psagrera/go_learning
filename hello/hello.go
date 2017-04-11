@@ -4,7 +4,7 @@ import (
 
     "fmt"
 
-    "github.com/psagrera/stringutil"
+    "github.com/psagrera/go_learning/stringutil"
 )
 
 func main(){

@@ -3,7 +3,7 @@ package main
 import (
     
     "fmt"
-    d "github.com/psagrera/dijkstra"
+    d "github.com/psagrera/go_learning/dijkstra"
 )                      
 
 type Graph map[string]map[string]int
