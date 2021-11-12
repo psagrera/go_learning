@@ -1,15 +1,9 @@
 package main
 
 import (
-
-    "fmt"
-
-    "github.com/psagrera/go_learning/stringutil"
+	"fmt"
 )
 
-func main(){
-    fmt.Printf(stringutil.Reverse("!oG , olleH"))
+func main() {
+	fmt.Printf("Hello Picha")
 }
-
-
-
